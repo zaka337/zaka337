@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
   
-  <h1>Hi there, I'm <a href="https://github.com/your-username">Your Name</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/your-username">Zaka Satti</a>! 👋</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
