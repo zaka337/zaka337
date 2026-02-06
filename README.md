@@ -1,98 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
-  
-  <h1>Hi there, I'm <a href="https://github.com/your-username">Zaka Satti</a>! 👋</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
-  </a>
-</div>
+# Hi there, I'm Zaka Ullah Waheed! 👋 
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;DevOps+Enthusiast;No-Code+Architect" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  Can be customized with a short bio. 
-  <br/>
-  🔭 I’m currently working on **Full Stack Web Apps**
-  <br/>
-  🌱 I’m currently learning **Advanced DevOps & Cloud Architecture**
-  <br/>
-  👯 I’m looking to collaborate on **Open Source Projects**
-</div>
-
-<br/>
+### 🚀 About Me
+I am a **6th Semester BS IT Student** at Air University Islamabad. I specialize in building cross-platform mobile applications with **Flutter** and scalable web solutions using **Bubble.io** and **React.js**. I'm passionate about automation (DevOps) and creating technology that solves real-world social issues.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
-### 💻 Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-### 🌐 Backend & Full Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-### ♾️ DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **No-Code** | ![Bubble](https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-## 🚀 Top Projects
+### 🌐 Connect With Me & View My Work
 
-| **Full Stack Web Apps** | **Frontend Projects** |
-|:---:|:---:|
-| **[Project Name 1](Link_Here)** <br/> _Brief description of the full stack app._ <br/> ![Stack](https://img.shields.io/badge/MERN-Stack-blue) | **[Project Name 2](Link_Here)** <br/> _Pixel perfect UI/UX implementation._ <br/> ![Stack](https://img.shields.io/badge/React-Tailwind-green) |
-| **[Project Name 3](Link_Here)** <br/> _E-commerce or Dashboard app._ <br/> ![Stack](https://img.shields.io/badge/NextJS-Prisma-black) | **[Project Name 4](Link_Here)** <br/> _Interactive frontend showcase._ <br/> ![Stack](https://img.shields.io/badge/Vue-ThreeJS-orange) |
-
-| **DevOps & Automation** | **Other Cool Stuff** |
-|:---:|:---:|
-| **[CI/CD Pipeline](Link_Here)** <br/> _Automated deployment scripts._ <br/> ![Stack](https://img.shields.io/badge/Jenkins-Docker-red) | **[Utility/Tool](Link_Here)** <br/> _CLI tool or Library._ <br/> ![Stack](https://img.shields.io/badge/Python-Go-blue) |
+<p align="left">
+<a href="https://www.linkedin.com/in/zaka-ullah-waheed-80380832a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zaka LinkedIn" /></a>
+<a href="https://zakasportfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Zaka Portfolio" /></a>
+<a href="https://github.com/zaka337" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Zaka GitHub" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🌟 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
+* **[GlamourHub](https://glamourhubpk.netlify.app/)**: A premium web application designed for high-end UI/UX.
+* **[BazaarBox (Daraz Box)](https://github.com/zaka337)**: Full-featured E-commerce app built with **Flutter & Firebase**.
+* **[Travel Agency & To-Do App](https://mobile-app-66892.bubbleapps.io/version-test/api/1.1/mobile/preview?debug_mode=true&preview_view=Home)**: Native mobile experience built on the **Bubble** platform.
 
 ---
 
-<div align="center">
-  <h3>📫 Connect with me</h3>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaka337&show_icons=true&theme=radical&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaka337&layout=compact&theme=radical" />
+</p>
+
+---
